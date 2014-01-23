@@ -1,7 +1,7 @@
 #define FILTERSCRIPT
 #include <a_samp>
 
-// Credits to PAtrik356b
+// Credits to Patrik356b
 
 new MAP_DEBUG_LEVEL = 0; // set the debug level
 
